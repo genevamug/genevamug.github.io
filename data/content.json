@@ -1,0 +1,10 @@
+{
+    "session1":
+    {
+        "link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/events/113249882/",
+        "date_fr":"Mardi 23 Avril 2013, 18:30 à 20:00, à l'HEPIA (Salle A106)",
+        "desc_fr": "Maxime nous présentera MongoDB pour les personnes désirant en savoir plus sur cette base de donnée NoSQL orienté document.<br/><br/>Il abordera très brièvement ce qu'est une base de donnée NoSQL, ses différences avec une base de donnée relationnel (comme Oracle, MySQL, ...) ainsi que les différents types de base de données NoSQL.<br/><br/>Il nous présentera MongoDB en détaillant les différents usages de MongoDB (documents, GridFS, GIS, Aggregation Framework, ...).<br/><br/>Maxime nous fera une petite démonstration d'utilisation du shell MongoDB ainsi qu'un bref retour d'expérience.<br/><br/>Cette session s'adresse essentiellement à des personnes désirant avoir un aperçu de MongoDB et quels avantages cette base peut leur apporter.<br/>La présentation se déroulera en français mais les questions pourront être posées en anglais et en français.",
+        "author_pic" : "http://photos4.meetupstatic.com/photos/member/7/a/0/a/thumb_32851242.jpeg",
+        "author_fr": "Maxime est consultant chez Hortis en tant que Java / Web développeur. Il programme essentiellement en Java (pour la partie Backend) et JavaScript (pour le frontend). <br/><br/>Il montre un intérêt particulier pour les bases NoSQL et utilise MongoDB sur son projet principal. <br/><br/>Maxime est intéressé à la programmation dans son ensemble, les différents langages (beaucoup tournant sur la JVM), l'amélioration continue et est un partisan du TDD.<br/><br/>Maxime adore participer et organiser des évènements autour du métier de développeur. Il est notamment très impliqué dans le GenevaJUG, a animé des coding-dojos, et a également organisé par le passé l'Agile tour Genève, Soft-Shake."
+    }
+}

@@ -1199,7 +1199,7 @@ h6 {
   font-family: inherit;
   font-weight: bold;
   line-height: 20px;
-  color: inherit;
+  color: #DDDDDD;
   text-rendering: optimizelegibility;
 }
 h1 small,
@@ -6334,4 +6334,58 @@ a.badge:hover {
   h3 {
     page-break-after: avoid;
   }
+}
+/* GMUG specifics */
+#slogan {
+  float: left;
+  width: 670px;
+  padding: 20px;
+  background-color: #372616;
+  color: #4f9546;
+  font-family: open-sans, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12pt;
+  margin-right: -50px;
+  margin-top: 50px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.375);
+  -moz-box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.375);
+  box-shadow: inset 2px 2px 2px rgba(0, 0, 0, 0.375);
+}
+@media (min-width: 1200px) {
+  #slogan {
+    margin-left: 76px;
+  }
+}
+#main_logo {
+  width: 200px;
+  height: 200px;
+}
+.event {
+  color: #AAA;
+  font-size: 12pt;
+}
+.event .date {
+  font-size: 14pt;
+  color: #999;
+  font-weight: bold;
+  margin: 10px 0px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #444;
+}
+.event a {
+  cursor: pointer;
+}
+.event .meetuplink {
+  float: right;
+}
+.event .meetup {
+  width: 33px;
+  margin-left: 10px;
+}
+.event .auth_pic {
+  margin: 0px 10px 10px 0px;
+  width: 70px;
+  float: left;
 }

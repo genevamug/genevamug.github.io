@@ -29,7 +29,6 @@
     <link rel="apple-touch-icon" sizes="72x72" href="./images/ico/apple-touch-icon-72x72-precompressed.png">
     <link rel="apple-touch-icon" sizes="114x114" href="./images/ico/apple-touch-icon-114x114-precompressed.png">
 
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="./js/libs/jquery-1.8.3.min.js"><\/script>')</script>
     <script src="./js/libs/jquery.form.min.js"></script>
     <script src="./js/libs/underscore-1.4.3.min.js"></script>
@@ -57,20 +56,15 @@
     <div class="navbar-inner">
         <div class="container">
             <div id="flore-menu">
-
                 <ul class="nav secondary-nav">
                     <li class="dropdown" data-dropdown="dropdown">
 
                         <a href="/" class="menu">
-                            <img src="./img/mug.png" style="float:left;height:30px;margin-right:5px;"/>
+                            <img src="./img/mug_small.png" style="float:left;height:30px;margin-right:5px;"/>
                             <div class="logo">Geneva Mongo Users Group</div>
                         </a>
-
                     </li>
                 </ul>
-                <div id="mainloader" style="margin-top: 12px; margin-right:25px;float:left;display:none;">
-                    <img src="./img/ajax-black-loader.gif" id="loader"/>
-                </div>
             </div>
 
         </div>
@@ -81,15 +75,19 @@
 
     <div class="container">
 
-        <section id="typography">
+        <div id="typography">
 
             <div class="page-header">
                 <h1></h1>
             </div>
+            <div id="slogan">
+            GenevaMUG is a non-profit professional user group based in Geneva. It's purpose is to evaluate and spread the knowledge of NoSQL databases and in particular MongoDB.
+            </div>
+            <img id="main_logo" src="./img/geneva_mug.png">
+            </br>
 
-            Coming soon
-
-        </section>
+            <h2>Prochain évenement</h2>
+        </div>
     </div>
 
 </div>
@@ -105,7 +103,32 @@
 
 <script>
     $(document).ready(function () {
+        $.getJSON("./data/content.json", function(data) {
 
+            var items = [];
+
+            $.each(data, function(key, session) {
+                items.push('<div class="event">');
+                items.push('<a class="meetuplink" href=' + session.link + ' target="_BLANK">plus d\'infos <img class="meetup" src="./img/meetup.png"/></a>');
+                items.push('<div class="date">' + session.date_fr +'</div>');
+                items.push('<div class="event_desc span7">' + session.desc_fr +'</div>');
+
+                items.push('<div class="event_auth span4">');
+                items.push('<img class="auth_pic" src="'+session.author_pic+'" />');
+                items.push( session.author_fr+'</div></div>');
+            });
+
+            $('<ul/>', {
+                'class': 'my-new-list',
+                html: items.join('')
+            }).appendTo('#typography');
+
+
+
+        })
+        .done(function() { console.log( "second success" ); })
+        .fail(function() { console.log( "error" ); })
+        .always(function() { console.log( "complete" ); });
 
     });
 
