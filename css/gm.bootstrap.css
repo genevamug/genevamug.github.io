@@ -6364,7 +6364,7 @@ a.badge:hover {
 }
 .event {
   color: #AAA;
-  font-size: 12pt;
+  font-size: 11pt;
 }
 .event .date {
   font-size: 14pt;
@@ -6383,6 +6383,14 @@ a.badge:hover {
 .event .meetup {
   width: 33px;
   margin-left: 10px;
+}
+.event .event_auth {
+  font-size: 10pt;
+  background-color: #333;
+  padding: 10px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
 }
 .event .auth_pic {
   margin: 0px 10px 10px 0px;
