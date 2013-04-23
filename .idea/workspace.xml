@@ -32,6 +32,7 @@
     <file path="/.htaccess" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366727637664" ignored="false" />
     <file path="$PROJECT_DIR$/../../../_site/_src/website/wp-content/themes/wordpress-bootstrap/page-hortis-a-propos.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366727236372" ignored="false" />
     <file path="/page-hortis-a-propos.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366727236372" ignored="false" />
+    <file path="/test.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366729594387" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,8 +55,19 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="134" column="61" selection-start="4583" selection-end="4583" vertical-scroll-proportion="0.4237695">
+            <state line="141" column="61" selection-start="4829" selection-end="4829" vertical-scroll-proportion="0.54981995">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="-6.25">
+              <folding>
+                <element signature="e#6#161#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,6 +110,7 @@
       <list>
         <option value="$PROJECT_DIR$/data/content.json" />
         <option value="$PROJECT_DIR$/less/gm.bootstrap.less" />
+        <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -161,20 +174,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="less" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="genevamug.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="genevamug.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -211,6 +210,13 @@
         </serverdata>
       </server>
       <server id="924260e7-5031-4c7a-a850-dd71d2c2e948">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="a3e25445-8051-4b6e-be73-2c38125f91d9">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" />
@@ -354,9 +360,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="-6.25">
+          <folding>
+            <element signature="e#6#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="134" column="61" selection-start="4583" selection-end="4583" vertical-scroll-proportion="0.4237695">
+        <state line="141" column="61" selection-start="4829" selection-end="4829" vertical-scroll-proportion="0.54981995">
           <folding />
         </state>
       </provider>
