@@ -130,6 +130,17 @@
         .fail(function() { console.log( "error" ); })
         .always(function() { console.log( "complete" ); });
 
+
+
+        $.getJSON("http://api.meetup.com/events?id=113249882&key=7d4047676d51c44a5e4a3117c058", function(data) {
+
+
+
+        })
+        .done(function() { console.log( "second success" ); })
+        .fail(function() { console.log( "error" ); })
+        .always(function() { console.log( "complete" ); });
+
     });
 
     function hideLoader(){
