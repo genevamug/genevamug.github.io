@@ -26,7 +26,7 @@ nav,
 section {
   display: block;
 }
-
+/*
 #main section{
   float:left;
   width:700px;
@@ -34,7 +34,7 @@ section {
     width:870px;
   }
 
-}
+}*/
 
 audio,
 canvas,
@@ -141,6 +141,9 @@ textarea {
   vertical-align: top;
 }
 
+.clear{
+  clear: both;
+}
 .clearfix {
   *zoom: 1;
 }
@@ -741,7 +744,7 @@ h4 small {
 }
 
 footer{
-  border-top: 1px solid #ddd;
+ // border-top: 1px solid #ddd;
   padding-top :20px;
   margin-top :30px;
   font-size: 10px;
@@ -6473,35 +6476,124 @@ a.badge:hover {
 
 
 /* GMUG specifics */
-#slogan{
-  float:left;
-  width:670px;
-  padding:20px;
-  background-color: #372616;
-  color:#4f9546;
-  font-family:@sansFontFamily;
-  font-size:12pt;
-  margin-right: -50px;
-  margin-top:50px;
-  .border-radius(10px);
-  .box-shadow(inset 2px 2px 2px rgba(0, 0, 0, 0.375));
-  @media (min-width: 1200px) {
-    margin-left: 76px;
+
+
+header#header{
+  top:0px;
+  left:0px;
+  display:block;
+  width:100%;
+}
+
+#section1{
+  .container{
+    padding-top:150px;
+    text-align: center;
+  }
+  background-image: url('@{imgBasePath}lightpaperfibers_2X.png');
+  background-attachment:fixed;
+  background-position:fixed;
+  height:800px;
+  //border-bottom: 3px dashed #81c564;
+  text-align:center;
+  .arrow_down{
+    width:80px;
+    height:40px;
+    //background-color:black;
+    .gradientBar(#222222,#000000);
+    .border-top-left-radius(150px);
+    .border-top-right-radius(150px);
+    cursor:pointer;
+    margin:auto;
+    display:inline-block;
+    bottom:29px;
+    position:relative;
+    cursor:pointer;
+    &.fixed{
+      bottom:0px;
+      position:fixed;
+      margin-left: -40px;
+    }
+    &:hover{
+      .gradientBar(#333333,#000000);
+      .arrow_in{
+        border-color: #EEEEEE transparent transparent transparent;
+      }
+    }
+    .arrow_in{
+      width: 0px;
+      height: 0px;
+      border-style: solid;
+      border-width: 10px 7px 0 7px;
+      border-color: #CCCCCC transparent transparent transparent;
+      margin: auto;
+      margin-top: 17px;
+    }
   }
 }
 
-#main_logo{
-  width:200px;
-  height:200px;
+#section2{
+  .box-shadow(inset -1px 5px 7px rgba(0,0,0,1));
+  padding-top:100px;
+  padding-bottom:150px;
+  background-image: url('@{imgBasePath}binding_dark.png');
+  ul{
+    margin: 0px;
+  }
 }
+
+
+
+#slogan{
+  width:670px;
+  color:#755A3C;
+  font-family:@sansFontFamily;
+  font-size:17pt;
+  line-height:24pt;
+  margin-top:80px;
+  margin-bottom: 100px;
+  margin-right:auto;
+  margin-left:auto;
+  text-shadow : 1px 1px 3px rgb(204, 172, 125);
+
+}
+#main_logo{
+  width:300px;
+  height:300px;
+  margin-right:auto;
+  margin-left:auto;
+}
+
 
 .event{
   color:#AAA;
-  font-size: 11pt;
-  .date{
-    font-size: 14pt;
-    color:#999;
+  font-size: 9pt;
+  margin:25px 0px;
+  padding:50px 0px;
+  &.first{
+    color:#BBB;
+    font-size: 10pt;
+    background-color: rgba(200, 200, 200, 0.07);
+    .transition(0.2s);
+    &:hover{
+      background-color: rgba(200, 200, 200, 0.15);
+    }
+    .title{
+      color:#DDD;
+      font-size: 17pt;
+    }
+    .event_auth{
+      font-size: 9pt;
+    }
+  }
+  .title{
+    font-size: 15pt;
     font-weight:bold;
+  }
+  .date{
+    font-size: 10pt;
+    color:#BBB;
+    font-style: italic;
     margin:10px 0px;
     padding-bottom:5px;
     border-bottom:1px solid #444;
@@ -6518,8 +6610,9 @@ a.badge:hover {
     margin-left:10px;
   }
   .event_auth{
-    font-size: 10pt;
+    font-size: 8pt;
     background-color: #333;
+    background-image: url('@{imgBasePath}mochaGrunge.png');
     padding: 10px;
     .border-radius(5px);
   }
@@ -6527,6 +6620,13 @@ a.badge:hover {
     margin:0px 10px 10px 0px;
     width:70px;
     float:left;
+    cursor:pointer;
+    .border-radius(5px);
+    .box-shadow(0px 0px 10px -1px black);
+    .transition(0.1s);
+    &:hover{
+      .box-shadow(0px 0px 10px 0px #000);
+    }
   }
 }
 

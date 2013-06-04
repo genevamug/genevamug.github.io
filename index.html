@@ -35,6 +35,7 @@
     <script src="./js/libs/bootstrap-notify.js"></script>
     <script src="./js/plugins.js"></script>
     <script src="./js/script.js"></script>
+    <script src="./js/skrollr.js"></script>
 
     <!-- extra js-->
 
@@ -52,43 +53,62 @@
     })();
 </script>
 
-<header id="header" class="navbar navbar-fixed-top">
-    <div class="navbar-inner">
+
+
+<div id="main" role="main" class="">
+
+    <section id="section1">
         <div class="container">
-            <div id="flore-menu">
-                <ul class="nav secondary-nav">
-                    <li class="dropdown" data-dropdown="dropdown">
-
-                        <a href="/" class="menu">
-                            <img src="./img/mug_small.png" style="float:left;height:30px;margin-right:5px;"/>
-                            <div class="logo">Geneva Mongo Users Group</div>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-
-        </div>
-    </div>
-</header>
-
-<div id="main" role="main" class="row">
-
-    <div class="container">
-
-        <div id="typography">
-
-            <div class="page-header">
-                <h1></h1>
-            </div>
-            <div id="slogan">
-            GenevaMUG is a non-profit professional user group based in Geneva. It's purpose is to evaluate and spread the knowledge of NoSQL databases and in particular MongoDB.
-            </div>
             <img id="main_logo" src="./img/geneva_mug.png">
-            </br>
+            <div id="slogan">
+                <strong>Geneva MUG</strong> is a non-profit professional user group
+                <br/>based in Geneva.
+                <br/><br/>It's purpose is to evaluate and spread the knowledge of NoSQL databases and in particular MongoDB.
+            </div>
 
-            <h2>Prochain évenement</h2>
         </div>
-    </div>
+        <div class="arrow_down fixed">
+            <div class="arrow_in">
+            </div>
+        </div>
+    </section>
+
+    <header id="header" class="navbar" data-spy="affix" data-offset-top="800">
+        <div class="navbar-inner">
+
+            <div class="container">
+
+                <div id="flore-menu">
+                    <ul class="nav secondary-nav">
+                        <li class="dropdown" data-dropdown="dropdown">
+
+                            <a href="/" class="menu">
+                                <img src="./img/mug_small.png" style="float:left;height:30px;margin-right:5px;"/>
+                                <div class="logo">Geneva Mongo Users Group</div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </header>
+
+
+    <section id="section2">
+
+
+
+            <div id="typography">
+                <div class="container">
+                    <h2 style="text-transform: uppercase">évenements</h2>
+                </div>
+
+            </div>
+
+
+    </section>
+
 
 </div>
 
@@ -103,19 +123,26 @@
 
 <script>
     $(document).ready(function () {
+
+       /* s = skrollr.init({
+            smoothScrolling:false
+        });*/
+
         $.getJSON("./data/content.json", function(data) {
 
-            var items = [];
-
+            var items = [],
+                first = 'first';
             $.each(data, function(key, session) {
-                items.push('<div class="event">');
+                items.push('<div class="event '+first+'"><div class="container">');
                 items.push('<a class="meetuplink" href=' + session.link + ' target="_BLANK">plus d\'infos <img class="meetup" src="./img/meetup.png"/></a>');
+                items.push('<div class="title">' + session.title_fr +'</div>');
                 items.push('<div class="date">' + session.date_fr +'</div>');
                 items.push('<div class="event_desc span7">' + session.desc_fr +'</div>');
 
                 items.push('<div class="event_auth span4">');
-                items.push('<img class="auth_pic" src="'+session.author_pic+'" />');
-                items.push( session.author_fr+'</div></div>');
+                items.push('<a target="_BLANK" href="'+session.auth_link+'"><img class="auth_pic" src="'+session.author_pic+'" /></a>');
+                items.push( session.author_fr+'</div><br class="clear"/></div></div> <br class="clear"/>');
+                first = '';
             });
 
             $('<ul/>', {
@@ -130,16 +157,31 @@
         .fail(function() { console.log( "error" ); })
         .always(function() { console.log( "complete" ); });
 
-
+        $('#testaffix').affix();
 
        /* $.getJSON("http://api.meetup.com/events?id=113249882&key=7d4047676d51c44a5e4a3117c058", function(data) {
-
-
 
         })
         .done(function() { console.log( "second success" ); })
         .fail(function() { console.log( "error" ); })
         .always(function() { console.log( "complete" ); });*/
+
+
+        $('.arrow_down').click(function(){
+            $(this).removeClass('fixed');
+            $('html, body').animate({
+               scrollTop: "900px"
+           }, {
+                duration:500,
+                easing:"swing"
+            })
+        });
+
+        $(window).scroll(function(){
+           if($(window).scrollTop()>600){
+               $('.arrow_down').removeClass('fixed');
+           }
+        });
 
     });
 

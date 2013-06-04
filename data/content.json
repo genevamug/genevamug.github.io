@@ -1,10 +1,24 @@
 {
+    "session2":
+    {
+        "link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/events/121571832/",
+        "auth_link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/members/24573302/",
+        "date_fr":"Mardi 11 Juin 2013, 18:30 à 20:00, à l'HEPIA (Salle A106)",
+        "title_fr":"JSONiq - The SQL of NoSQL",
+        "desc_fr": "JSONiq is a high-level query language that enables developers to productively develop and execute complex queries on top of MongoDB.<br/>This is not your grandma’s SQL. <br/>JSONiq supports novel concepts purposely designed for unstructured, deeply nested, and horizontally deployed JSON data. <br/>It supports complex query processing features such as joins, grouping, transformation, full-text, or updates without giving up on scalability.<br/> <br/>Presentation will be in English, questions can be asked in French and in English <br/> <br/> La présentation se déroulera en anglais, les questions pourront être posées en anglais et en français.",
+        "author_pic" : "http://m.c.lnkd.licdn.com/mpr/mpr/shrink_80_80/p/5/000/270/03c/0b2e7d5.jpg",
+        "author_fr": "William Candillon is a software engineer at 28.io. <br/>His focus is on the development of complex query processing using JSONiq. <br/>William Candillon holds a Master of Science from Telecom Lille, France.<br/>His master thesis was exploring the existence of design patterns in query languages."
+    },
+
     "session1":
     {
         "link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/events/113249882/",
+		"auth_link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/members/32194192/",
         "date_fr":"Mardi 23 Avril 2013, 18:30 à 20:00, à l'HEPIA (Salle A106)",
+        "title_fr":"Mongo 101",
         "desc_fr": "Maxime nous présentera MongoDB pour les personnes désirant en savoir plus sur cette base de donnée NoSQL orienté document.<br/><br/>Il abordera très brièvement ce qu'est une base de donnée NoSQL, ses différences avec une base de donnée relationnel (comme Oracle, MySQL, ...) ainsi que les différents types de base de données NoSQL.<br/><br/>Il nous présentera MongoDB en détaillant les différents usages de MongoDB (documents, GridFS, GIS, Aggregation Framework, ...).<br/><br/>Maxime nous fera une petite démonstration d'utilisation du shell MongoDB ainsi qu'un bref retour d'expérience.<br/><br/>Cette session s'adresse essentiellement à des personnes désirant avoir un aperçu de MongoDB et quels avantages cette base peut leur apporter.<br/>La présentation se déroulera en français mais les questions pourront être posées en anglais et en français.",
         "author_pic" : "http://photos4.meetupstatic.com/photos/member/7/a/0/a/thumb_32851242.jpeg",
         "author_fr": "Maxime est consultant chez Hortis en tant que Java / Web développeur. Il programme essentiellement en Java (pour la partie Backend) et JavaScript (pour le frontend). <br/><br/>Il montre un intérêt particulier pour les bases NoSQL et utilise MongoDB sur son projet principal. <br/><br/>Maxime est intéressé à la programmation dans son ensemble, les différents langages (beaucoup tournant sur la JVM), l'amélioration continue et est un partisan du TDD.<br/><br/>Maxime adore participer et organiser des évènements autour du métier de développeur. Il est notamment très impliqué dans le GenevaJUG, a animé des coding-dojos, et a également organisé par le passé l'Agile tour Genève, Soft-Shake."
     }
+	
 }
