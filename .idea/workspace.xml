@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72fe85b4-0b7e-4b87-8fda-78be290abbff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/variables.less" afterPath="$PROJECT_DIR$/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/gm.bootstrap.css" afterPath="$PROJECT_DIR$/css/gm.bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/gm.bootstrap.less" afterPath="$PROJECT_DIR$/less/gm.bootstrap.less" />
     </list>
     <ignored path="genevamug.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -92,19 +93,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gm.bootstrap.less" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="gm.bootstrap.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6614" column="40" selection-start="132453" selection-end="132464" vertical-scroll-proportion="-6.1">
+            <state line="6613" column="29" selection-start="132425" selection-end="132425" vertical-scroll-proportion="0.43609023">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/variables.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="0.042674255">
+            <state line="5" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="-1.2">
               <folding />
             </state>
           </provider>
@@ -141,9 +142,9 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/less/navbar.less" />
         <option value="$PROJECT_DIR$/js/skrollr.js" />
-        <option value="$PROJECT_DIR$/less/gm.bootstrap.less" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/variables.less" />
+        <option value="$PROJECT_DIR$/less/gm.bootstrap.less" />
       </list>
     </option>
   </component>
@@ -452,16 +453,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
+    <entry file="file://$PROJECT_DIR$/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6614" column="40" selection-start="132453" selection-end="132464" vertical-scroll-proportion="-6.1">
+        <state line="5" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="-1.2">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/variables.less">
+    <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="0.042674255">
+        <state line="6613" column="29" selection-start="132425" selection-end="132425" vertical-scroll-proportion="0.43609023">
           <folding />
         </state>
       </provider>
