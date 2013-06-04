@@ -4,11 +4,13 @@
     <list default="true" id="72fe85b4-0b7e-4b87-8fda-78be290abbff" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/gm.bootstrap.css" afterPath="$PROJECT_DIR$/css/gm.bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/gm.bootstrap.less" afterPath="$PROJECT_DIR$/less/gm.bootstrap.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/variables.less" afterPath="$PROJECT_DIR$/less/variables.less" />
     </list>
     <ignored path="genevamug.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1369758237275" ignored="false" />
-    <file path="/index.html" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1370331396960" ignored="false" />
+    <file path="/index.html" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1370332117664" ignored="false" />
     <file path="/a.dummy" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1369230208255" ignored="false" />
     <file path="$PROJECT_DIR$/../../floreEB/application/modules/menu/views/access.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366610451178" ignored="false" />
     <file path="/access.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366610443850" ignored="false" />
@@ -75,11 +77,20 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="37" selection-start="5597" selection-end="5597" vertical-scroll-proportion="-6.2916665">
+            <state line="17" column="55" selection-start="745" selection-end="745" vertical-scroll-proportion="-4.5306125">
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gm.bootstrap.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/gm.bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,10 +104,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gm.bootstrap.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="gm.bootstrap.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6613" column="29" selection-start="132425" selection-end="132425" vertical-scroll-proportion="0.43609023">
+            <state line="6613" column="30" selection-start="132426" selection-end="132426" vertical-scroll-proportion="-5.8">
               <folding />
             </state>
           </provider>
@@ -105,7 +116,7 @@
       <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/variables.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="-1.2">
+            <state line="5" column="15" selection-start="114" selection-end="114" vertical-scroll-proportion="-1.2">
               <folding />
             </state>
           </provider>
@@ -142,9 +153,10 @@
         <option value="$PROJECT_DIR$/test.php" />
         <option value="$PROJECT_DIR$/less/navbar.less" />
         <option value="$PROJECT_DIR$/js/skrollr.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/variables.less" />
         <option value="$PROJECT_DIR$/less/gm.bootstrap.less" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/gm.bootstrap.css" />
       </list>
     </option>
   </component>
@@ -351,16 +363,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="59" selection-start="2206" selection-end="2206" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="71" selection-end="83" vertical-scroll-proportion="0.0">
@@ -443,9 +445,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/less/variables.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="15" selection-start="114" selection-end="114" vertical-scroll-proportion="-1.2">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6613" column="30" selection-start="132426" selection-end="132426" vertical-scroll-proportion="-5.8">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="37" selection-start="5597" selection-end="5597" vertical-scroll-proportion="-6.2916665">
+        <state line="17" column="55" selection-start="745" selection-end="745" vertical-scroll-proportion="-4.5306125">
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -453,16 +469,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/variables.less">
+    <entry file="file://$PROJECT_DIR$/css/gm.bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="99" selection-end="99" vertical-scroll-proportion="-1.2">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6613" column="29" selection-start="132425" selection-end="132425" vertical-scroll-proportion="0.43609023">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
