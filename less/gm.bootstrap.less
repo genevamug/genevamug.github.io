@@ -6496,6 +6496,62 @@ header#header{
   height:800px;
   //border-bottom: 3px dashed #81c564;
   text-align:center;
+
+  #social_links{
+    position: absolute;
+    top: 104px;
+    right: 70px;
+    width:120px;
+    .view{
+      width: 100px;
+      height: 100px;
+      margin:10px;
+      float:left;
+      border: 10px solid white;
+      background-color: white;
+      overflow: hidden;
+      position: relative;
+      text-align: center;
+      cursor:pointer;
+      img{
+        .transition(0.2s);
+      }
+      .mask{
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        overflow: hidden;
+        top: 0;
+        left: 0;
+        h2{
+          .translateY(-100px);
+          .transition(all 0.2s ease-in-out);
+          .opacity(0);
+
+          text-transform: uppercase;
+          color: #fff;
+          text-align: center;
+          position: relative;
+          font-size: 17px;
+          padding: 10px;
+          background: rgba(0, 0, 0, 0.8);
+          margin: 20px 0 0 0;
+        }
+      }
+      &:hover{
+        img{
+          .scale(2);
+        }
+        h2{
+          .opacity(100);
+          .translateY(0px);
+        }
+      }
+
+    }
+  }
+
+
   .arrow_down{
     width:80px;
     height:40px;
@@ -6611,7 +6667,7 @@ header#header{
   }
   .event_auth{
     font-size: 8pt;
-    background-color: #333333 ;
+    background-color: #333333;
     background-image: url('@{imgBasePath}mochaGrunge.png');
     padding: 10px;
     .border-radius(5px);
