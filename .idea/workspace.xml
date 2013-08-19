@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72fe85b4-0b7e-4b87-8fda-78be290abbff" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/gm.bootstrap.css" afterPath="$PROJECT_DIR$/css/gm.bootstrap.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/gm.bootstrap.less" afterPath="$PROJECT_DIR$/less/gm.bootstrap.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="genevamug.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1376895772065" ignored="false" />
-    <file path="/index.html" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1376898971668" ignored="false" />
+    <file path="/index.html" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1376900962051" ignored="false" />
     <file path="/a.dummy" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1369230208255" ignored="false" />
     <file path="$PROJECT_DIR$/../../floreEB/application/modules/menu/views/access.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366610451178" ignored="false" />
     <file path="/access.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366610443850" ignored="false" />
@@ -23,7 +25,7 @@
     <file path="$PROJECT_DIR$/../../floreEB/application/views/template/flore.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366613003022" ignored="false" />
     <file path="/flore.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366613002627" ignored="false" />
     <file path="/content.json" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366632516611" ignored="false" />
-    <file path="/gm.bootstrap.less" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1376898790366" ignored="false" />
+    <file path="/gm.bootstrap.less" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1376900924817" ignored="false" />
     <file path="$PROJECT_DIR$/../../../_site/_src/website/wp-content/themes/wordpress-bootstrap/blog.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366724850653" ignored="false" />
     <file path="$PROJECT_DIR$/../../../_site/_src/website/wp-config.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366718050037" ignored="false" />
     <file path="/wp-config.php" changelist="72fe85b4-0b7e-4b87-8fda-78be290abbff" time="1366718043033" ignored="false" />
@@ -75,7 +77,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="140" column="24" selection-start="5040" selection-end="5040" vertical-scroll-proportion="-18.125">
+            <state line="164" column="27" selection-start="5698" selection-end="5698" vertical-scroll-proportion="-13.791667">
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#a#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -86,7 +88,7 @@
       <file leaf-file-name="gm.bootstrap.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6734" column="1" selection-start="134513" selection-end="134513" vertical-scroll-proportion="0.8695652">
+            <state line="747" column="20" selection-start="10402" selection-end="10402" vertical-scroll-proportion="0.3774436">
               <folding />
             </state>
           </provider>
@@ -134,8 +136,8 @@
         <option value="$PROJECT_DIR$/js/skrollr.js" />
         <option value="$PROJECT_DIR$/css/gm.bootstrap.css" />
         <option value="$PROJECT_DIR$/less/mixins.less" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/variables.less" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/gm.bootstrap.less" />
       </list>
     </option>
@@ -450,15 +452,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="140" column="24" selection-start="5040" selection-end="5040" vertical-scroll-proportion="-18.125">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#a#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="2" selection-start="73" selection-end="73" vertical-scroll-proportion="-0.6">
@@ -466,9 +459,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="164" column="27" selection-start="5698" selection-end="5698" vertical-scroll-proportion="-13.791667">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#a#2;n#div#1;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6734" column="1" selection-start="134513" selection-end="134513" vertical-scroll-proportion="0.8695652">
+        <state line="747" column="20" selection-start="10402" selection-end="10402" vertical-scroll-proportion="0.3774436">
           <folding />
         </state>
       </provider>
