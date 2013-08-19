@@ -55,9 +55,9 @@
 
 
 
-<div id="main" role="main" class="">
+<div id="main" role="main" class="pt-perspective">
 
-    <section id="section1">
+    <section id="section1" class="">
         <div class="container">
             <img id="main_logo" src="./img/geneva_mug.png">
             <div id="slogan">
@@ -85,7 +85,7 @@
                     </div>
                 </div>
             </a>
-            <a target="_BLANK" href="www.meetup.com/Geneva-MongoDB-User-Group/" alt="Geneva Mongo User Group - Meetup">
+            <a target="_BLANK" href="http://www.meetup.com/Geneva-MongoDB-User-Group/" alt="Geneva Mongo User Group - Meetup">
                 <div class="view view-first">
                     <img src="./img/Meetup-Logo-1-med1.jpg" style="margin-top: 15px;"/>
                     <div class="mask">
@@ -122,7 +122,7 @@
     </header>
 
 
-    <section id="section2">
+    <section id="section2" class="pt-page-current">
 
 
 
@@ -133,6 +133,28 @@
 
             </div>
 
+
+    </section>
+
+    <section class="partner">
+        <div class="container">
+            <h2>Sponsors</h2>
+
+            <div class="content">
+                <div class="partner">
+                    <img src="./img/partners/logo-hortis.png">
+                    <div class="link">
+                        <a target="_BLANK" href="http://www.hortis.ch">Website</a>
+                    </div>
+                    <div class="link twitter">
+                        <a target="_BLANK" href="http://www.twitter.com/hortis">Twitter</a>
+                    </div>
+                </div>
+
+                <h3>We would like to thank our sponsors for their help and support</h3>
+
+            </div>
+        </div>
 
     </section>
 
@@ -149,7 +171,34 @@
 </footer>
 
 <script>
+ /*   var animEndEventNames = {
+        'WebkitAnimation' : 'webkitAnimationEnd',
+        'OAnimation' : 'oAnimationEnd',
+        'msAnimation' : 'MSAnimationEnd',
+        'animation' : 'animationend'
+    },
+    // animation end event name
+    animEndEventName = animEndEventNames[ Modernizr.prefixed( 'animation' ) ];
+*/
     $(document).ready(function () {
+
+        /*outClass = 'pt-page-scaleDown';
+        inClass = 'pt-page-moveFromRight pt-page-ontop';
+
+        $('#section2').click(function(){
+            $('body').css('height','100%');
+            $('#section2').addClass('nopadding '+outClass).on(animEndEventName, function () {
+                $('#section2').addClass('pt-page ');
+                $('#section2').removeClass('pt-page-current');
+            });
+            $('section.about_us').addClass('pt-page-current '+inClass);
+
+            $('#section1').hide('', function() {
+
+
+            });
+
+        });
 
        /* s = skrollr.init({
             smoothScrolling:false
