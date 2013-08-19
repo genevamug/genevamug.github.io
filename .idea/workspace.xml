@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72fe85b4-0b7e-4b87-8fda-78be290abbff" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/variables.less" afterPath="$PROJECT_DIR$/less/variables.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/gm.bootstrap.less" afterPath="$PROJECT_DIR$/less/gm.bootstrap.less" />
     </list>
     <ignored path="genevamug.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,19 +83,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gm.bootstrap.less" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="gm.bootstrap.less" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6722" column="22" selection-start="134394" selection-end="134394" vertical-scroll-proportion="-178.2">
+            <state line="6734" column="1" selection-start="134513" selection-end="134513" vertical-scroll-proportion="0.8695652">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.less" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="variables.less" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/less/variables.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="2" selection-start="73" selection-end="73" vertical-scroll-proportion="0.021337127">
+            <state line="4" column="2" selection-start="73" selection-end="73" vertical-scroll-proportion="-0.6">
               <folding />
             </state>
           </provider>
@@ -134,9 +134,9 @@
         <option value="$PROJECT_DIR$/js/skrollr.js" />
         <option value="$PROJECT_DIR$/css/gm.bootstrap.css" />
         <option value="$PROJECT_DIR$/less/mixins.less" />
-        <option value="$PROJECT_DIR$/less/gm.bootstrap.less" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/less/variables.less" />
+        <option value="$PROJECT_DIR$/less/gm.bootstrap.less" />
       </list>
     </option>
   </component>
@@ -459,16 +459,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
+    <entry file="file://$PROJECT_DIR$/less/variables.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6722" column="22" selection-start="134394" selection-end="134394" vertical-scroll-proportion="-178.2">
+        <state line="4" column="2" selection-start="73" selection-end="73" vertical-scroll-proportion="-0.6">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/less/variables.less">
+    <entry file="file://$PROJECT_DIR$/less/gm.bootstrap.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="2" selection-start="73" selection-end="73" vertical-scroll-proportion="0.021337127">
+        <state line="6734" column="1" selection-start="134513" selection-end="134513" vertical-scroll-proportion="0.8695652">
           <folding />
         </state>
       </provider>
