@@ -4,7 +4,7 @@
         "link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/events/137764672/",
         "auth_link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/members/34418362/",
         "date_fr":"Mercredi 18 Septembre 2013, 18:30 à 20:00, à l'HEPIA (Salle A106)",
-        "title_fr":"Marconi: Queuing and Notification sevice backed by MongoDB",
+        "title_fr":"Marconi: Queuing and Notification service backed by MongoDB",
         "desc_fr": "Marconi is a multi-tenant cloud queuing system written in Python as part of the OpenStack project. As message bus, it’s main goals are: performance, availability, durability, fault-tolerance and scalability. This talk aims to give the audience as much information as possible about Marconi’s architecture, design, patterns, performance, issues it faced, how its MongoDB backend works and how / why it was built from scratch.",
         "author_pic" : "./img/speakers/flavio_mongo-200x300.jpg",
         "author_fr": "Flavio spends most of his time hacking on storage (Glance [core member], Cinder), Oslo (Core member) and Marconi (core member) modules. He has both Italian and Venezuelan roots, and is currently based in Italy where he works remotely for Red Hat. Flavio is also an actively open-source contributor and part of Mongodb Masters group. Twitter (@flaper87), GH (@flaper87) and blog http://www.flaper87.com"
