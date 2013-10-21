@@ -1,4 +1,15 @@
 {
+    "session4":
+    {
+        "link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/events/146641332/",
+        "auth_link" : "https://github.com/evanchooly",
+        "date_fr": "Mardi 19 Novembre 2013, 18:30 à 20:00, à l'HEPIA (Salle A106)",
+        "title_fr": "MongoDB for JPA Developers",
+        "desc_fr": "MongoDB is getting a lot of attention these days and many are looking at integrating MongoDB into their systems. For those of us who have spent years in Java EE, that transition can feel daunting. This presentation begins with a basic introduction to MongoDB and how data is organized. It covers several options for getting data in and out of MongoDB: it will cover a few examples of using the Java driver directly but will focus primarily on the Morphia Object Document Mapper. It also explores how MongoDB’s paradigm can affect your object model.",
+        "author_pic" : "./img/speakers/justin_lee.jpg",
+        "author_fr": "Justin has been a Java developer since 1996. Since then he has had the chance to work on wide variety of concerns including everything from web front ends to custom ORM frameworks to helping define standards around websockets. He currently works as a software engineer for mongodb.com. He's an active member of the open source community and blogs less frequently than he intends at http://antwerkz.com."
+    },
+
     "session3":
     {
         "link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/events/137764672/",
