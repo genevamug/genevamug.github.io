@@ -7,7 +7,7 @@
         "title_fr": "Building an Online-Recommendation Engine with MongoDB",
         "desc_fr": "Mario is an Italian guy who sells the most famous pizza in Munich through an online shop based on MongoDB. Mario's current goal is to increase his cross- and up-selling rate. He hired a statistician to create a recommendation engine for the online shop. This talk sheds light on how to build an online recommendation engine based on MongoDB and Apache Mahout. We show which recommenders must be built to reach Mario's goal and how these can be integrated in Mario's shop infrastructure. Finally, the effectiveness of the different recommenders is visualised in a realtime dashboard.",
         "author_pic" : "./img/speakers/bernd_zuther.jpg",
-        "author_fr": "Researcher and Software Engineer at comSysto GmbH. Hadoop, MongoDB and Spring JEE Developer. On a permanent quest for cutting edge data management technologies."
+        "author_fr": "Researcher and Software Engineer at comSysto GmbH. Hadoop, MongoDB and Spring JEE Developer. On a permanent quest for cutting edge data management technologies. Twitter: @Bernd_Z ; Web: http://bernd-zuther.de/"
     },
 
     "session4":
