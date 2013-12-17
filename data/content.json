@@ -2,7 +2,7 @@
     "session5":
     {
         "link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/events/155750342/",
-        "auth_link" : "",
+        "auth_link" : "http://www.meetup.com/Geneva-MongoDB-User-Group/members/17782821/",
         "date_fr": "Mardi 21 Janvier 2014, 18:30 à 20:00, à l'HEPIA (Salle A502)",
         "title_fr": "Building an Online-Recommendation Engine with MongoDB",
         "desc_fr": "Mario is an Italian guy who sells the most famous pizza in Munich through an online shop based on MongoDB. Mario's current goal is to increase his cross- and up-selling rate. He hired a statistician to create a recommendation engine for the online shop. This talk sheds light on how to build an online recommendation engine based on MongoDB and Apache Mahout. We show which recommenders must be built to reach Mario's goal and how these can be integrated in Mario's shop infrastructure. Finally, the effectiveness of the different recommenders is visualised in a realtime dashboard.",
