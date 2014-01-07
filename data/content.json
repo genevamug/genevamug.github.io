@@ -14,7 +14,7 @@
         "auth_link": "http://www.meetup.com/Geneva-MongoDB-User-Group/members/81587272/",
         "date_fr": "Mardi 21 Janvier 2014, 18:30 à 20:00, à l'HEPIA (Salle A502)",
         "title_fr": "Jongo - Querying MongoDB from Java",
-        "desc_fr": "This talk is designed for people interested in getting to know MongoDB and how they can use it from Java. Come and learn about Jongo and how you can use this Java-based library to query MongoDB without much of a fuss. In addition, we will see some basic comparison between Morphia, Spring Data and Jongo.",
+        "desc_fr": "This talk is designed for people interested in getting to know MongoDB and how they can use it from Java. Come and learn about <a href='http://jongo.org/'>Jongo</a> and how you can use this Java-based library to query MongoDB without much of a fuss. In addition, we will see some basic comparison between <a href='https://github.com/mongodb/morphia' Morphia </a>, <a href='http://projects.spring.io/spring-data-mongodb/'>Spring Data MongoDB</a> and <a href='http://jongo.org/'>Jongo</a>.",
         "author_pic": "./img/speakers/ivan_hristov.jpg",
         "author_fr": "A software engineer by day, Ivan is also an open-source committer and GenevaMUG organizer. Twitter: @iv_hristov. Blog: http://ingini.org/"
     },
