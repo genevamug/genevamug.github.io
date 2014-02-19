@@ -2,7 +2,7 @@
     "session10": {
         "link": "http://www.meetup.com/Geneva-MongoDB-User-Group/events/167080442/",
         "auth_link": "http://www.meetup.com/Geneva-MongoDB-User-Group/members/121402742/",
-        "date_fr": "Mardi 18 Mars 2014, 19:15 à 19:55, à l'HEPIA (Salle A106)",
+        "date_fr": "Mardi 18 Mars 2014, 18:30 à 19:15, à l'HEPIA (Salle A106)",
         "title_fr": "MongoDB's Aggregation Framework",
         "desc_fr": "The aggregation framework was introduced in version 2.2, providing a great alternative to MapReduce. During this talk, we will demonstrate and explain its basic operators with some examples and live demos. We will also have a look at its evolution in 2.5 and beyond.",
         "author_pic": "./img/speakers/alain_helaili.jpg",
@@ -12,7 +12,7 @@
     "session9": {
         "link": "http://www.meetup.com/Geneva-MongoDB-User-Group/events/167079532/",
         "auth_link": "http://www.meetup.com/Geneva-MongoDB-User-Group/members/112130262/",
-        "date_fr": "Mardi 18 Mars 2014, 18:30 à 19:10, à l'HEPIA (Salle A106)",
+        "date_fr": "Mardi 18 Mars 2014, 19:15 à 20:00, à l'HEPIA (Salle A106)",
         "title_fr": "Efficient Partial and Fuzzy Matching with MongoDB",
         "desc_fr": "John will talk about four efficient  ways you can use MongoDB to find information where the search attributes you have and the recorded data don't exactly match and you need to find the best matches. This is primarily focussed on names and identity details.",
         "author_pic": "./img/speakers/john_page.jpg",
