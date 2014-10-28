@@ -1,4 +1,14 @@
 {
+    "session11": {
+        "link": "http://www.meetup.com/Geneva-MongoDB-User-Group/events/216199072/",
+        "auth_link": "https://www.linkedin.com/pub/michael-mazurczak/36/155/3b6",
+        "date_fr": "Tuesday 18 November 2014, 18:30 à 19:15,  HEPIA (Room A106)",
+        "title_fr": "Meteor, Mongo and you",
+        "desc_fr": "An introduction to the Meteor web development platform. We will see how Meteor is using mongodb to achieve its vision of a powerful reactive web framework that keeps things simple.",
+        "author_pic": "./img/speakers/michael-mazurczak.jpg",
+        "author_fr": "Michael has been freelancing for a few years. He worked a lot with ruby, rails, postgre and is now focusing on Meteor and mongodb. Most of the time he's neutral regarding the tech stack."
+    },
+
     "session10": {
         "link": "http://www.meetup.com/Geneva-MongoDB-User-Group/events/167080442/",
         "auth_link": "http://www.meetup.com/Geneva-MongoDB-User-Group/members/121402742/",
