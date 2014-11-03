@@ -2,101 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72fe85b4-0b7e-4b87-8fda-78be290abbff" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/cedric_masson.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/speakers/flavio_percoco.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/geneva_mug.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/hortis.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/ivan_hristov.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/maxime_levetti.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/speakers/maxime_nowak.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/team/maxime_nowak.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/meetup.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/twitter.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/speakers/william_candillon.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie/PIE.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie/backgroundsize.min.htc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/images/bracket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/sponsors/exoscale.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.dotdotdot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.dropotron.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/left-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/no-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/right-sidebar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/skel-layers.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/skel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/skel.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-1000px.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-desktop.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/ie/v8.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/curtain.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/gm.bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/navbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/variables.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/aboutus/ced.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/aboutus/logo_virtualfinfair_simple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/aboutus/usthree.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/aboutus/usthree_sepia-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/aboutus/usthree_sepia.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/binding_dark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/geneva_mug.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gmug_small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/grey_wash_wall.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/hexabump_2X.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/lightpaperfibers_2X.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/linkedinbig.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/meetup.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mug.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mug_small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/partners/logo-hortis-big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/partners/logo-hortis.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/ricepaper2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/speakers/bernd_zuther.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/speakers/flavio_mongo-200x300.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/twitter-bird-white-on-blue.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/curtain.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/bootstrap-notify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/jquery-1.8.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/jquery-1.8.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/jquery.complexify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/jquery.form.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/jquery.form.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/modernizr-2.6.1-respond-1.1.0.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/underscore-1.4.3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/libs/underscore-1.4.3.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/plugins.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/skrollr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/skrollr.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/less/gm.bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/less/variables.less" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Meetup-Logo-1-med1.jpg" afterPath="$PROJECT_DIR$/images/meetup.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/mochaGrunge.png" afterPath="$PROJECT_DIR$/images/mochaGrunge.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/speakers/alain_helaili.jpg" afterPath="$PROJECT_DIR$/images/speakers/alain_helaili.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/speakers/ivan_hristov.jpg" afterPath="$PROJECT_DIR$/images/speakers/ivan_hristov.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/speakers/john_page.jpg" afterPath="$PROJECT_DIR$/images/speakers/john_page.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/speakers/justin_lee.jpg" afterPath="$PROJECT_DIR$/images/speakers/justin_lee.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/speakers/michael-mazurczak.jpg" afterPath="$PROJECT_DIR$/images/speakers/michael-mazurczak.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="genevamug.github.com.iws" />
@@ -120,16 +25,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="content.json" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/content.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="1170" max-vertical-offset="1755">
-              <caret line="78" column="424" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="424" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,20 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="498">
               <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35791758" vertical-offset="0" max-vertical-offset="11580">
+            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="11580">
               <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -224,10 +119,10 @@
         <option value="$PROJECT_DIR$/less/mixins.less" />
         <option value="$PROJECT_DIR$/less/variables.less" />
         <option value="$PROJECT_DIR$/less/gm.bootstrap.less" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/data/content.json" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -280,38 +175,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="genevamug.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="genevamug.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="genevamug.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="genevamug.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="genevamug.github.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sessionmongo101" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -503,17 +366,25 @@
       <updated>1366386429678</updated>
       <workItem from="1414527994140" duration="669000" />
       <workItem from="1414596019935" duration="4774000" />
-      <workItem from="1415021481849" duration="5953000" />
+      <workItem from="1415021481849" duration="6159000" />
     </task>
     <task id="LOCAL-00001" summary="added Michael Mazurczak presentation for Meteor &amp; MongoDB">
       <created>1414528826642</created>
       <updated>1414528826642</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new website">
+      <created>1415042866424</created>
+      <updated>1415042866424</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new website">
+      <created>1415042907294</created>
+      <updated>1415042907294</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11396000" />
+    <option name="totallyTimeSpent" value="11602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1436" height="874" extended-state="6" />
@@ -534,6 +405,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SonarQube" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -546,7 +418,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32780612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -566,20 +437,13 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="added Michael Mazurczak presentation for Meteor &amp; MongoDB" />
-    <option name="LAST_COMMIT_MESSAGE" value="added Michael Mazurczak presentation for Meteor &amp; MongoDB" />
+    <MESSAGE value="new website" />
+    <option name="LAST_COMMIT_MESSAGE" value="new website" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/content.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1755">
-          <caret line="78" column="424" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="424" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
@@ -641,21 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/content.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="1755">
-          <caret line="2" column="82" selection-start-line="2" selection-start-column="82" selection-end-line="2" selection-end-column="82" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/content.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0">
-          <caret line="6" column="97" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="498">
@@ -673,22 +522,6 @@
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="498">
-          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/content.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1170" max-vertical-offset="1755">
-          <caret line="78" column="424" selection-start-line="78" selection-start-column="22" selection-end-line="78" selection-end-column="424" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
@@ -709,7 +542,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35791758" vertical-offset="0" max-vertical-offset="11580">
+        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="11580">
           <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -738,6 +571,14 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#2;n#div#2;n#section#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#header#0;n#section#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="498">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
