@@ -240,7 +240,12 @@
 	
 	#main-wrapper
 	{
-		padding: 3em 20px 3em 20px;
+		padding: 3em 20px 2em 20px;
+	}
+	
+	#secondary-wrapper
+	{
+		padding: 2em 20px 3em 20px;
 	}
 	
 	#footer-wrapper

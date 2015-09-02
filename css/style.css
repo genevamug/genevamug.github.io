@@ -560,7 +560,7 @@ input[type="reset"].alt:active,
     margin-top: 1.25em;
 }
 
-#main-wrapper {
+#main-wrapper, #secondary-wrapper {
     position: relative;
     overflow: hidden;
     background: #fff;
